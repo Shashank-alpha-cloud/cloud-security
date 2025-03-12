@@ -179,6 +179,8 @@ By following these steps, you will have a secure cloud environment with IAM poli
 ![Image](https://github.com/user-attachments/assets/5a86a4b0-3b4e-4189-a813-5ae027db0b1c)
 
 
+![Image](https://github.com/user-attachments/assets/01e3bc3d-c131-4a28-a205-dca0113b63e6)
+
 
 
 This internship has been an invaluable learning experience, providing me with the opportunity to apply theoretical knowledge to real-world scenarios and gain hands-on experience in cloud computing,Working on projects such has significantly enhanced my technical skills and deepened my understanding of  AWS,security best practices,
