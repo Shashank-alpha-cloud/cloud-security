@@ -176,8 +176,7 @@ By following these steps, you will have a secure cloud environment with IAM poli
 
 ![Image](https://github.com/user-attachments/assets/57011722-aa58-40fe-b624-51fb18f01647)
 
-
-![Image](https://github.com/user-attachments/assets/a54df6d2-b6b1-4e7e-b9e6-b373559b444b) 
+![Image](https://github.com/user-attachments/assets/5a86a4b0-3b4e-4189-a813-5ae027db0b1c)
 
 
 
